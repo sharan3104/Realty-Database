@@ -1,0 +1,53 @@
+insert into phone values('sharan', 9345478301);
+insert into phone values('sharan', 9674278690);
+insert into phone values('siri', 9168672678);
+insert into phone values('siri', 9845743885);
+insert into phone values('manoj.g', 9958369723);
+insert into phone values('manoj.g', 9213590157);
+insert into phone values('manoj.g', 9124560893);
+insert into phone values('charitha', 9874563215);
+insert into phone values('charitha', 9658742130);
+insert into phone values('slb', 9156478231);
+insert into phone values('slb', 9784523698);
+insert into phone values('snake.teja', 9538746210);
+insert into phone values('snake.teja', 9825637410);
+insert into phone values('snake.teja', 9197548230);
+insert into phone values('jaya', 9442168753);
+insert into phone values('s.reddy', 9713586240);
+insert into phone values('s.reddy', 9598731240);
+insert into phone values('vvaran', 9441765230);
+insert into phone values('vvaran', 9964571382);
+insert into phone values('vvaran', 9568734120);
+insert into phone values('krishna_snekil', 9661347820);
+insert into phone values('krishna_snekil', 9457682130);
+insert into phone values('krishna_snekil', 9726458301);
+insert into phone values('abhi.ram', 9821765430);
+insert into phone values('abhi.ram', 9187456301);
+insert into phone values('ash_rod', 9945216387);
+insert into phone values('digvijay', 9764128305);
+insert into phone values('saga', 9287413650);
+insert into phone values('g.abhiloss', 9261548378);
+insert into phone values('vignesh', 9734258601);
+insert into phone values('vignesh', 9976843210);
+insert into phone values('medhansh', 9251784630);
+insert into phone values('medhansh', 9587432610);
+insert into phone values('medhansh', 9874152360);
+insert into phone values('rit_lag', 9558742130);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
